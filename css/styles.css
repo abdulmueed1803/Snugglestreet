@@ -1,0 +1,99 @@
+body{
+  font-family: 'Montserrat';
+  font-weight: 500;
+  padding: 1% 5% 1%;
+  background-color: #053742;
+  color: #E8F0F2;
+}
+/* navigation bar */
+.navbar-brand{
+  font-family: 'Otomanopee One', sans-serif;
+}
+.icon-image{
+  margin-right: 10px;
+}
+/* title section */
+.snugglestreet-heading{
+ margin-top: 100px;
+
+}
+
+#head{
+  margin-bottom: 100px;
+  text-align: center;
+  font-family: 'Lilita One', cursive;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+/* street section and bites sub-heading */
+.sub-heading{
+  font-weight: 500 ;
+  font-weight: bold;
+
+  margin-bottom: 30px;
+}
+
+#img {
+height: 250px;
+width: 260px;
+float: right;
+margin-left: 20px;
+border-radius : 50%;
+}
+paragraph{
+margin: 50px 200px;
+}
+
+/* faq section */
+h4{
+  font-weight: bold;
+}
+.faq-section{
+margin-top: 2px;
+margin-left: 200px;
+margin-right: 200px;
+margin-bottom: 500px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+#faq-heading{
+line-height: 20px;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+color: rgba(62, 125, 250, 1);
+margin-top: 70px;
+}
+.faq-question{
+margin: 10px 300px;
+}
+.contact-us{
+line-height: 20px;
+width: 100%;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+}
+#contact-us-heading{
+line-height: 20px;
+width: 100%;
+text-align: left;
+font-weight: 800;
+color: rgba(62, 125, 250, 1);
+}
+.contact-info{
+text-align: justify;
+}
+#info{
+text-align: justify;
+}
+.icons{
+  margin-left: 35px;
+}
